@@ -1,0 +1,6 @@
+mytuple = ("c-lang",'java',"html" ,1,2,3,"c-lang",541,True)
+print(mytuple)
+print("length the list:",len(mytuple))
+print(type(mytuple))
+mytuple = tuple((1,"manju",False))
+print(mytuple)
